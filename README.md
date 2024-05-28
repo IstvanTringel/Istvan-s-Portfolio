@@ -14,6 +14,7 @@ Part 1: SQL scripts containing the DDL and DML queries
 Part 2: Written reports that summarize key information and insights for my manager 
 Part 3: An entity-relationship diagram (ERD) of my updated database
 Part 4: A final SQL technical assessment
+
 My job in completing these project parts was to support the growth of LetsMeet. LetsMeet is a fictional website that provides a platform for users to create and search for real-world events that match their interests and location.
 
 ### [Listings123 Exploratory Data Analysis](https://github.com/IstvanTringel/Listings123-Exploratory-Data-Analysis)
