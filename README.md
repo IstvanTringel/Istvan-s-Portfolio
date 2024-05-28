@@ -26,7 +26,7 @@ My initial project at Texas A&M University's Reynolds and Reynolds Sales Leaders
 
 In this project, I was brought on board as a business analyst at Listings123, a burgeoning home-sharing service connecting hosts and guests. The company aimed to expand to new cities through a strategic marketing campaign and needed funding from investors. I utilized Exploratory Data Analysis to identify successful host traits and gather recommendations for convincing investors of the company's potential.
 
-## Tableau-Projects
+## Tableau Projects
 
 ### [Building Custom Tables with NYC Real Estate Data](https://public.tableau.com/views/Project1ABuildingCustomTableswithNYCRealEstateData/Sheet3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
