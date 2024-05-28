@@ -30,7 +30,7 @@ In this project, I was brought on board as a business analyst at Listings123, a 
 My first project for the Google Project Management course involved leading a project for Sauce & Spoon, a small restaurant chain looking to drive growth and expansion. 
 As project manager, I oversaw the implementation of tabletop menu tablets to increase efficiency and gather data for strategic decision-making.
 
-### [PlantPalscProject Management] (https://github.com/IstvanTringel/PlantPals-Project-Management)
+### [PlantPalscProject Management](https://github.com/IstvanTringel/PlantPals-Project-Management)
 
 Plant Pals was my capstone project for the Google Project Management course, where I took on the role of project manager responsible for updating documentation to ensure a successful launch. 
 The project revolved around the scenario of Office Green, a commercial landscaping company, introducing the Plant Pals service that offers small, low-maintenance plants to high-volume customers. In this role, I was tasked with managing the rollout of this new service for the company.
