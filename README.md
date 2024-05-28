@@ -25,7 +25,7 @@ In this project, I was brought on board as a business analyst at Listings123, a 
 
 ## Project Management Projects
 
-### [Sauce and Spoon Project Management] (https://github.com/IstvanTringel/Sauce-and-Spoon-Project-Management)
+### [Sauce and Spoon Project Management](https://github.com/IstvanTringel/Sauce-and-Spoon-Project-Management)
 
 My first project for the Google Project Management course involved leading a project for Sauce & Spoon, a small restaurant chain looking to drive growth and expansion. 
 As project manager, I oversaw the implementation of tabletop menu tablets to increase efficiency and gather data for strategic decision-making.
