@@ -2,7 +2,7 @@
 
 ## Data Analytics Projects
 
-### LetsMeet-SQL-Project(https://github.com/IstvanTringel/LetsMeet-SQL)
+### [LetsMeet-SQL-Project](https://github.com/IstvanTringel/LetsMeet-SQL)
 
 My SQL project at Texas A&M University's Reynolds and Reynolds Sales Leadership Institute- Data Analytics and Agile Leadership Professional Certificate.
 
