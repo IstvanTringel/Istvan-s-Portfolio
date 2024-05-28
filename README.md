@@ -35,7 +35,7 @@ My first project for the Google Project Management course involved leading a pro
 
 As project manager, I oversaw the implementation of tabletop menu tablets to increase efficiency and gather data for strategic decision-making.
 
-### [PlantPalsc Project Management](https://github.com/IstvanTringel/PlantPals-Project-Management)
+### [PlantPals Project Management](https://github.com/IstvanTringel/PlantPals-Project-Management)
 
 Plant Pals was my capstone project for the Google Project Management course, where I took on the role of project manager responsible for updating documentation to ensure a successful launch.
 
