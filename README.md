@@ -30,7 +30,7 @@ In this project, I was brought on board as a business analyst at Listings123, a 
 
 ### [Building Custom Tables with NYC Real Estate Data](https://public.tableau.com/views/Project1ABuildingCustomTableswithNYCRealEstateData/Sheet3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
-In this project, I was exploring a New York City real estate dataset. Within the dataset, I found records of all buildings and building units sold within New York City over a 12-month period. It was my job to take the data, process it, search for patterns, and create insightful tables to summarize the data.
+In this project, I was exploring a New York City real estate dataset. Within the dataset, I found records of all buildings and building units sold within New York City over 12 months. It was my job to take the data, process it, search for patterns, and create insightful tables to summarize the data.
 
 ### [Creating Data Visualizations with NYC Real Estate Data](https://public.tableau.com/views/Project1BCreateDataVisualizationswithNYCRealEstateData_17162320364870/Sheet5?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
